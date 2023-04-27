@@ -21,7 +21,7 @@ Snort is a free and open-source network intrusion detection and prevention syste
 - Minimum of 2 GB RAM
 - At least 1 GB of disk space
 
-### Instructions
+### Instructions (Windows)
 
 1. Download the latest stable version of Snort from the official website: https://www.snort.org/downloads
 2. Extract the downloaded archive to a directory of your choice.
