@@ -1,6 +1,6 @@
 # 🐺 Intrusion Detection and Prevention 🐺
 
-This section contains open-source tools that can be used for intrusion detection and prevention.
+In today's digital age, network security is more important than ever before. With daily cyber attacks becoming more common, network administrators need to be proactive in detecting and preventing intrusions before they can cause significant damage. Intrusion detection and prevention systems (IDPS) are crucial tools in a network administrator's arsenal, allowing them to monitor network traffic and identify potential security threats in real-time. These threats can range from common day-to-day issues such as phishing attacks and malware infections, to more sophisticated attacks like advanced persistent threats and zero-day exploits. With an IDPS in place, network administrators can quickly respond to potential security breaches and take necessary measures to prevent further damage.
 
 ## 🐺 Snort
 
