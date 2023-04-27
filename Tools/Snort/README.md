@@ -17,16 +17,20 @@ Snort is a free and open-source network intrusion detection and prevention syste
 
 ### Requirements
 
-- Linux, Unix, or Windows operating system
-- Minimum of 512 MB RAM
+- Windows 7, 8, 8.1, or 10 operating system
+- Minimum of 2 GB RAM
 - At least 1 GB of disk space
 
 ### Instructions
 
 1. Download the latest stable version of Snort from the official website: https://www.snort.org/downloads
-2. Install Snort by following the instructions provided in the installation guide: https://www.snort.org/documents/snort-3-0-0-install-guide
-3. Configure Snort by setting up rules, policies, and logging options. The configuration files are located in the `/etc/snort/` directory.
-4. Start the Snort service by running the following command: `sudo systemctl start snort`.
+2. Extract the downloaded archive to a directory of your choice.
+3. Install WinPcap by running the WinPcap installer included in the Snort installation package.
+4. Open a command prompt with administrative privileges.
+5. Navigate to the directory where Snort was extracted.
+6. Run the following command to install Snort as a Windows service: `snort /SERVICE /INSTALL`.
+7. Configure Snort by setting up rules, policies, and logging options. The configuration files are located in the `C:\Snort\etc\` directory.
+8. Start the Snort service by running the following command: `net start snort`.
 
 ## Usage
 
