@@ -14,11 +14,6 @@ tcpdump is a powerful command-line network protocol analyzer that can be used to
 
 ## 🐊 WinDump
 
-### Installation and Configuration
-1. Download and install WinDump from the [official website](https://www.winpcap.org/windump/install/).
-2. Launch WinDump.
-3. Start capturing packets by running the `windump` command with appropriate flags.
-
 ### Review
 WinDump is a command-line network protocol analyzer for Windows that is similar to tcpdump. While it can be used to capture and analyze network traffic, its command-line interface can be intimidating for less experienced users. Additionally, its Windows-only platform limits its usefulness for network administrators who work across multiple operating systems.
 
