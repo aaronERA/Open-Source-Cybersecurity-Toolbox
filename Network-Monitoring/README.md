@@ -12,8 +12,8 @@ Wireshark is an incredibly powerful network protocol analyzer that is widely use
 ### Review
 tcpdump is a powerful command-line network protocol analyzer that can be used to capture and analyze network traffic. While it may not have the same user-friendly interface as Wireshark, tcpdump is a valuable tool for network administrators who prefer to work from the command line. However, its output can be difficult to read, especially for less experienced users.
 
-## 🐊 WinDump
+## 🕸️ Npcap
 
 ### Review
-WinDump is a command-line network protocol analyzer for Windows that is similar to tcpdump. While it can be used to capture and analyze network traffic, its command-line interface can be intimidating for less experienced users. Additionally, its Windows-only platform limits its usefulness for network administrators who work across multiple operating systems.
+Npcap is widely regarded as a valuable packet capture library and driver for Windows. It is developed as a successor to WinPcap and offers enhanced features and improved performance.
 
